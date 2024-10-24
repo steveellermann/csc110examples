@@ -28,4 +28,4 @@
 Example of writing a driver class & using Eclipse to write some of your class code for you
 
 - Car.java [Video](https://youtu.be/joddBLLgHgs) (7:37) - A Car class that we let Eclipse generate the constructor, getters & setters, and the toString method for us automatically
-- CarDriver.java - An example of a driver class that we use to test out our Car class to ensure that it works as expected
+- CarDriver.java [Video](https://youtu.be/eIVE-Jho-H0) (5:51) - An example of a driver class that we use to test out our Car class to ensure that it works as expected
